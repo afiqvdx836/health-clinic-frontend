@@ -1,0 +1,35 @@
+li.nav-item {
+    /* padding-left: 30px; */
+    margin-left: 30px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-img{
+    width: 30px;
+    height: 30px;
+}
+
+.navbar-section{
+    background-color: #e9ac20;
+}
+
+
+
+/* Main title */
+#title .container-fluid{
+    padding: 15% 15% 7%;
+}
+
+.secondary-title{
+    font-weight: lighter;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+.logo-covid{
+    width: 100%;
+}
