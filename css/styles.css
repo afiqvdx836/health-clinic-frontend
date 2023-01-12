@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
 li.nav-item {
     /* padding-left: 30px; */
     margin-left: 30px;
@@ -19,7 +23,7 @@ li.nav-item {
 
 /* Main title */
 #title .container-fluid{
-    padding: 15% 15% 7%;
+    padding: 9.5% 15% 7%;
 }
 
 .secondary-title{
@@ -32,4 +36,17 @@ li.nav-item {
 
 .logo-covid{
     width: 100%;
+}
+
+
+
+/* Footer */
+.footer{
+    background-color: #e9ac20;
+    padding: 10px 10px 0 10px;
+    
+}
+
+.kkm-logo{
+    width: 55%;
 }
